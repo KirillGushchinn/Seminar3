@@ -1,0 +1,30 @@
+C:\vscode\c_lab\bin\Debug\net6.0\c_lab.exe
+C:\vscode\c_lab\bin\Debug\net6.0\c_lab.deps.json
+C:\vscode\c_lab\bin\Debug\net6.0\c_lab.runtimeconfig.json
+C:\vscode\c_lab\bin\Debug\net6.0\c_lab.dll
+C:\vscode\c_lab\bin\Debug\net6.0\c_lab.pdb
+C:\vscode\c_lab\obj\Debug\net6.0\c_lab.csproj.AssemblyReference.cache
+C:\vscode\c_lab\obj\Debug\net6.0\c_lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\vscode\c_lab\obj\Debug\net6.0\c_lab.AssemblyInfoInputs.cache
+C:\vscode\c_lab\obj\Debug\net6.0\c_lab.AssemblyInfo.cs
+C:\vscode\c_lab\obj\Debug\net6.0\c_lab.csproj.CoreCompileInputs.cache
+C:\vscode\c_lab\obj\Debug\net6.0\c_lab.dll
+C:\vscode\c_lab\obj\Debug\net6.0\refint\c_lab.dll
+C:\vscode\c_lab\obj\Debug\net6.0\c_lab.pdb
+C:\vscode\c_lab\obj\Debug\net6.0\c_lab.genruntimeconfig.cache
+C:\vscode\c_lab\obj\Debug\net6.0\ref\c_lab.dll
+C:\Users\Кирилл\Desktop\Обучение в GB\dz seminar 2 znakomstvo\Seminar 3\c_lab19\bin\Debug\net6.0\c_lab.exe
+C:\Users\Кирилл\Desktop\Обучение в GB\dz seminar 2 znakomstvo\Seminar 3\c_lab19\bin\Debug\net6.0\c_lab.deps.json
+C:\Users\Кирилл\Desktop\Обучение в GB\dz seminar 2 znakomstvo\Seminar 3\c_lab19\bin\Debug\net6.0\c_lab.runtimeconfig.json
+C:\Users\Кирилл\Desktop\Обучение в GB\dz seminar 2 znakomstvo\Seminar 3\c_lab19\bin\Debug\net6.0\c_lab.dll
+C:\Users\Кирилл\Desktop\Обучение в GB\dz seminar 2 znakomstvo\Seminar 3\c_lab19\bin\Debug\net6.0\c_lab.pdb
+C:\Users\Кирилл\Desktop\Обучение в GB\dz seminar 2 znakomstvo\Seminar 3\c_lab19\obj\Debug\net6.0\c_lab.csproj.AssemblyReference.cache
+C:\Users\Кирилл\Desktop\Обучение в GB\dz seminar 2 znakomstvo\Seminar 3\c_lab19\obj\Debug\net6.0\c_lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кирилл\Desktop\Обучение в GB\dz seminar 2 znakomstvo\Seminar 3\c_lab19\obj\Debug\net6.0\c_lab.AssemblyInfoInputs.cache
+C:\Users\Кирилл\Desktop\Обучение в GB\dz seminar 2 znakomstvo\Seminar 3\c_lab19\obj\Debug\net6.0\c_lab.AssemblyInfo.cs
+C:\Users\Кирилл\Desktop\Обучение в GB\dz seminar 2 znakomstvo\Seminar 3\c_lab19\obj\Debug\net6.0\c_lab.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\Обучение в GB\dz seminar 2 znakomstvo\Seminar 3\c_lab19\obj\Debug\net6.0\c_lab.dll
+C:\Users\Кирилл\Desktop\Обучение в GB\dz seminar 2 znakomstvo\Seminar 3\c_lab19\obj\Debug\net6.0\refint\c_lab.dll
+C:\Users\Кирилл\Desktop\Обучение в GB\dz seminar 2 znakomstvo\Seminar 3\c_lab19\obj\Debug\net6.0\c_lab.pdb
+C:\Users\Кирилл\Desktop\Обучение в GB\dz seminar 2 znakomstvo\Seminar 3\c_lab19\obj\Debug\net6.0\c_lab.genruntimeconfig.cache
+C:\Users\Кирилл\Desktop\Обучение в GB\dz seminar 2 znakomstvo\Seminar 3\c_lab19\obj\Debug\net6.0\ref\c_lab.dll
